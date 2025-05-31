@@ -1,0 +1,22 @@
+Components of bunny:
+| bunny
+|   | data
+|   |   | -- bun.conf
+|   |   | -- bun000.ply
+|   |   | -- bun045.ply
+|   |   | -- bun090.ply
+|   |   | -- bun180.ply
+|   |   | -- bun270.ply
+|   |   | -- bun315.plY
+|   |   | -- chin.ply
+|   |   | -- ear_back.ply
+|   |   | -- README
+|   |   | -- top2.ply
+|   |   | -- top3.ply
+|   | reconstruction
+|   |   | -- bun_zipper.ply
+|   |   | -- bun_zipper_res2.ply
+|   |   | -- bun_zipper_res3.ply
+|   |   | -- bun_zipper_res4.ply
+|   |   | -- README
+
