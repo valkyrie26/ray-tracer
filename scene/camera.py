@@ -43,7 +43,7 @@ class Camera:
                 # Normal sampling
                 image[y, x] = self.normal_sampling(x, y, color, world)
 
-                # # Super-sampling
+                # # Super-sampling (will take longer to render)
                 # image[y, x] = self.super_sampling(x, y, color, world)
 
         return image
