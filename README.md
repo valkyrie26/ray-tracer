@@ -59,11 +59,11 @@ ray-tracer/
 │   ├── toneReproduction.py
 │   └── world.py
 │
-├── bunny\_example.py
+├── bunny_example.py
 ├── notes.txt
-├── ply\_parser.py
+├── ply_parser.py
 ├── README.md
-└── whitted\_replica\_example.py
+└── whitted_replica_example.py
 
 ````
 
