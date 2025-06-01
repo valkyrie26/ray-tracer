@@ -75,7 +75,7 @@ ray-tracer/
    ```bash
    git clone https://github.com/valkyrie26/ray-tracer.git
    cd ray-tracer
-````
+    ```
 
 2. **Install dependencies**
 
